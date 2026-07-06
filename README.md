@@ -1,6 +1,6 @@
 # Task 5: Exploratory Data Analysis (EDA)
 
-Performed EDA on cleaned retail sales data (12,575 rows) using Python (Pandas, Matplotlib, Seaborn) to extract patterns, trends, and anomalies.
+Performed EDA on cleaned retail sales data (12,575 rows) using Python (Pandas, NumPy, Matplotlib, Seaborn) to extract patterns, trends, and anomalies.
 
 ## Tools Used
 Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook
