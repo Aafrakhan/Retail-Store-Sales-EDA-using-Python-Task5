@@ -3,7 +3,7 @@
 Performed EDA on cleaned retail sales data (12,575 rows) using Python (Pandas, NumPy, Matplotlib, Seaborn) to extract patterns, trends, and anomalies.
 
 ## Tools Used
-Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook
+Python (Pandas, NumPy, Matplotlib, Seaborn) in Jupyter Notebook
 
 ## Key Findings
 - Price is the biggest driver of revenue (correlation: 0.85 with total spent)
